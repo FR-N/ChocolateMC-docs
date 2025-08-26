@@ -1,4 +1,3 @@
-```typescript
 // ...existing code...
 export default {
   // ...existing code...
@@ -16,4 +15,3 @@ export default {
   }
   // ...existing code...
 }
-```
