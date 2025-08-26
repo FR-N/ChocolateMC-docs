@@ -1,5 +1,6 @@
 // ...existing code...
 export default {
+  title: 'ChocolateMC-docs',
   // ...existing code...
   themeConfig: {
     sidebar: [
