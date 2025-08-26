@@ -12,14 +12,14 @@ hero:
       link: /首次进服指南
     - theme: alt
       text: 联系方式
-      link: /api-examples
+      link: /联系方式
 
 features:
   - title: 
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: 
+  - title: 
+    details:
+  - title: 流畅性
+    details: 服务器不流畅是人太多了说，这个因为是公益服所以有点难解决
 ---
 
