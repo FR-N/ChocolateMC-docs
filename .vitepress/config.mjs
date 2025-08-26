@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '.',
+  base: '/',
   title: "ChocolateMC 文档",
   description: "类似于wiki的东西",
   themeConfig: {
