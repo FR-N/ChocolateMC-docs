@@ -11,11 +11,11 @@ hero:
       text: 首次进服指南
       link: /首次进服指南
     - theme: alt
-      text: API Examples
+      text: 联系方式
       link: /api-examples
 
 features:
-  - title: Feature A
+  - title: 
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
