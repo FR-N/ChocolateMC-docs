@@ -8,8 +8,8 @@ hero:
   tagline: 类似于wiki的东西
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 首次进服指南
+      link: /首次进服指南
     - theme: alt
       text: API Examples
       link: /api-examples
