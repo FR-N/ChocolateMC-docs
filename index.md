@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 首次进服指南
-      link: /guide
+      link: /Guide
     - theme: alt
       text: 联系方式
       link: /联系方式
