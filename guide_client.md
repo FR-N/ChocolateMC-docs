@@ -27,14 +27,14 @@
 
 服务器目前提供两个推荐版本的客户端整合包，分别为 **1.21.1** 和 **1.21.8**，它们各有特点，请根据需求选用：
 
-- **1.21.1 版本**：相对成熟，原生支持 ESM，并且完美兼容我们配置的 tacz 模组。
-- **1.21.8 版本**：与目前 Hello 主服务器的最新服务端相对应，适配度更高。
+- **1.21.1 版本**：相对成熟，原生支持 YSM，并且完美兼容我们配置的 tacz 服务器。
+- **1.21.8 版本**：与目前 Chocolate 主服务器的服务端版本相对应，适配度更高。
 
 ::: tip 官方整合包下载
 点击下方链接即可直接下载预配置好的官方整合包：
 
-- **[1.21.1 tacz 官方基础整合包 (V1.0.0)](http://ip4.zgwl.eu.org:5244/d/%E4%B8%AD%E7%94%B5NSLS/OPEN/Minecraft/Chocolatemodpack/1.21.1tacz-Chocolate%20V1.0.0.20260629_base.zip?sign=KZoRIQxkdfZ2Ig6GJJb7LEAxUF1q3BHuxT80XU0HPf8=:0)** —— 适用于子服务器
-- **[1.21.8 Fabric 官方推荐整合包](http://ip4.zgwl.eu.org:5244/d/%E4%B8%AD%E7%94%B5NSLS/OPEN/Minecraft/Chocolatemodpack/1.21.8-Fabric-chocolate-lhx28.zip?sign=Vq3UF-9TxHAEp1O2WO_RgEwaXWOTe9UAa7r9Oto9nTU=:0)** —— 主服务器推荐使用
+- **[1.21.1 tacz 官方推荐整合包](http://ip4.zgwl.eu.org:5244/d/%E4%B8%AD%E7%94%B5NSLS/OPEN/Minecraft/Chocolatemodpack/1.21.1tacz-Chocolate%20V1.0.0.20260629_base.zip?sign=KZoRIQxkdfZ2Ig6GJJb7LEAxUF1q3BHuxT80XU0HPf8=:0)** —— 更多的mod多样性
+- **[1.21.8 Fabric 官方推荐整合包](http://ip4.zgwl.eu.org:5244/d/%E4%B8%AD%E7%94%B5NSLS/OPEN/Minecraft/Chocolatemodpack/1.21.8-Fabric-chocolate-lhx28.zip?sign=Vq3UF-9TxHAEp1O2WO_RgEwaXWOTe9UAa7r9Oto9nTU=:0)** —— 主服务器配合
 :::
 
 ---
