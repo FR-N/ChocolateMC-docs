@@ -8,6 +8,7 @@ export default {
         text: '入门指南',
         items: [
           { text: '首次进服指南', link: '/Guide' },
+          { text: '巧克力服务器相关mod等安装指南', link: '/guide_client' },
           // 可以继续添加其他入门相关文档
         ]
       },
