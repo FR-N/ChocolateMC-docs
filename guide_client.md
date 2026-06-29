@@ -33,7 +33,7 @@
 ::: tip 官方整合包下载
 点击下方链接即可直接下载预配置好的官方整合包：
 
-- **[1.21.1 tacz 官方推荐整合包](http://pan.zgwl.eu.org:5244/d/%E4%B8%AD%E7%94%B5NSLS/OPEN/Minecraft/Chocolatemodpack/1.21.1tacz-Chocolate%20V1.0.2.20260629_base.zip?sign=gY78WqIVy8audUqf4Yw9AMH5COz0XDtSdQqXlEwXWD4=:0)** —— 更多的mod多样性
+- **[1.21.1 tacz 官方推荐整合包](http://ip4.zgwl.eu.org:5244/d/%E4%B8%AD%E7%94%B5NSLS/OPEN/Minecraft/Chocolatemodpack/1.21.1tacz%201.21.1tacz-Chocolate%20V1.0.3.20260630_base.zip?sign=DfBvggfwkXnHM91ZdRW9OscDoxvkcp1935Xs3x-GChs=:0)** —— 更多的mod多样性
 - **[1.21.8 Fabric 官方推荐整合包](http://pan.zgwl.eu.org:5244/d/%E4%B8%AD%E7%94%B5NSLS/OPEN/Minecraft/Chocolatemodpack/1.21.8-Fabric-chocolate-lhx28.zip?sign=Vq3UF-9TxHAEp1O2WO_RgEwaXWOTe9UAa7r9Oto9nTU=:0)** —— 主服务器配合
 :::
 
