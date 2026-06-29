@@ -6,6 +6,3 @@ cache
 .cache
 .temp
 *.local
-build.sh
-test.sh
-.idea
